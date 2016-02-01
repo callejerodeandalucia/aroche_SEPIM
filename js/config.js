@@ -1,5 +1,5 @@
 //******** configuración **********************//
-url = "http://www.callejerodeandalucia.es/sepim_server/api";
+url = "http://www.callejerodeandalucia.es/sepim/api";
 urlGB = ""; //JGL - vacío si no tiene GB
 idAplicacion = 78; //id de la aplicación
 //*********************************************//
